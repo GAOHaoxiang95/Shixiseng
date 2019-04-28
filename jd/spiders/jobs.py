@@ -28,7 +28,7 @@ class JobsSpider(scrapy.Spider):
         'k': 'Java',
         'p': 1
     }
-    PAGES = 21
+    PAGES = 8
     FolderName = 'Shixiseng'
     base_url = "https://www.shixiseng.com/interns/st-intern_?"
 
